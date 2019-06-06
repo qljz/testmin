@@ -1,0 +1,18 @@
+课程：
+Coursera课程——Programming for Everybody
+MOOC平台Datacamp 无需安装环境 Data Scientist with Python 系列课程
+
+书籍教程：
+官方：http://www.pythondoc.com/pythontutorial3/index.html
+笨方法学 Python：http://learnpythonthehardway.org/book/这本书在讲解 Python 的语法成分时，还附带大量可实践的例子，非常适合快速起步。
+廖雪峰的 Python 2.7 教程：Home - 廖雪峰的官方网站Python 中文教程的翘楚，专为刚刚步入程序世界的小白打造。
+The Hitchhiker’s Guide to Python：The Hitchhiker’s Guide to Python!这本指南着重于 Python 的最佳实践，不管你是 Python 专家还是新手，都能获得极大的帮助
+Python 官方文档：Our Documentation实践中大部分问题，都可以在官方文档中找到答案
+辅助工具：Python Tutor  一个 Python 对象可视化的项目，用图形辅助你理解 Python 中的各种概念。
+Python 源码剖析：Python源码剖析 (豆瓣)
+Awesome Python 项目：vinta/awesome-python · GitHub
+
+
+《利用Python进行数据分析》
+Matplotlib Tutorial(译)
+用Python做科学计算
